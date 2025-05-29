@@ -37,9 +37,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NitishM&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitishM&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitishM&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitish080706&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitish080706&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish080706&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ### 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NitishM&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitish080706&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ### 🏆 GitHub Trophies (Optional)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NitishM&theme=tokyonight&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nitish080706&theme=tokyonight&no-bg=true&no-frame=true" />
 </p>
 
 ---
