@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&width=435&lines=BTech+Artificial Intelligence+%26+Data Science+Student;AI+%7C+NLP+%7C+CV+%7C+ML+Enthusiast;Coding+the+future%2C+one+model+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&width=435&lines=BTech+Artificial+Intelligence+%26+Data+Science+Student;AI+%7C+NLP+%7C+CV+%7C+ML+Enthusiast;Coding+the+future%2C+one+model+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -52,9 +52,37 @@
 
 ---
 
+### 🏆 GitHub Trophies (Optional)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NitishM&theme=tokyonight&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### ✨ Developer's Philosophy
+
+<p align="center">
+  <em>
+    "Building a needed model doesn’t matter when it has low efficiency.<br>
+    Build an efficient model that meets its need."
+  </em>
+</p>
+
+<h4 align="center">~ Nitish M</h4>
+
+---
+
+### 🧪 Featured Projects
+
+- 🕶️ **Low Light Vision System** — Enhancing visibility using only dashcam footage.
+- 🚑 **Emergency Aid App** — A real-time assistant for urgent medical scenarios.
+
+---
+
 ### 🌐 Connect with Me
 
-<!-- Add your real links below when ready -->
+<!-- Replace # with actual links later -->
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=github" /></a>
@@ -62,24 +90,16 @@
 
 ---
 
-### ✨ Developer's Philosophy
+### 👁️‍🗨️ Visitor Count
 
-<p align="center" style="font-style: italic; font-size: 1.1rem;">
-  "Building a needed model doesn’t matter when it has low efficiency.<br>
-   Build an efficient model that meets its need."
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NitishM&style=flat-square&color=blue" alt="Profile views"/>
 </p>
-<h4 align="center">~ Nitish M</h4>
 
 ---
 
-### 🧪 Featured Projects (optional)
+### 🌀 Bonus Animation
 
-- 🕶️ **Low Light Vision System** — Enhancing visibility using only dashcam footage.
-- 🚑 **Emergency Aid App** — A real-time assistant for urgent medical scenarios.
-
----
-
-<!-- Optional cool animated banner -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="160" />
 </p>
