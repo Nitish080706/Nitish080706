@@ -52,20 +52,15 @@
 
 ---
 
-### 🏆 GitHub Trophies (Optional)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nitish080706&theme=tokyonight&no-bg=true&no-frame=true" />
-</p>
 
----
+
 
 ### ✨ Developer's Philosophy
 
 <p align="center">
   <em>
-    "Building a needed model doesn’t matter when it has low efficiency.<br>
-    Build an efficient model that meets its need."
+    "I don’t just build models — I design systems that think, verify, and explain"
   </em>
 </p>
 
@@ -96,10 +91,4 @@
   <img src="https://komarev.com/ghpvc/?username=NitishM&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
----
 
-### 🌀 Bonus Animation
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="160" />
-</p>
